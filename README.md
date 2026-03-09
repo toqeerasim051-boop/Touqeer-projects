@@ -113,9 +113,7 @@ Simply open the HTML file in any modern web browser. The page is fully static an
 
 ## 👤 Author
 
-**kliscene**
-
-- GitHub: [@kliscene](https://github.com/kliscene)
+Touqeer Asim
 
 ## 📄 License
 
